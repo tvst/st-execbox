@@ -1,2 +1,2 @@
 streamlit==0.65.2
-st-execbox==*
+st-execbox
