@@ -17,7 +17,7 @@ pip install st-execbox
 
 ```python
 import streamlit as st
-from st_execbox import execbox
+from execbox import execbox
 
 
 # Draw a text editor and a "Run" button. When you press "Run", the code in the editor executes!
