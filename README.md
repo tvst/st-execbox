@@ -25,7 +25,7 @@ execbox()
 
 
 # Makes the code run automatically on each keystroke.
-execbox(autorun=False)
+execbox(autorun=True)
 
 
 # Draw an execbox with some initial text.
