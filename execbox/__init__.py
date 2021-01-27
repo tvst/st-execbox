@@ -51,6 +51,7 @@ def execbox(
 
     kwargs = dict(
         value=body,
+        auto_update=autorun,
         language="python",
         theme="dawn",
         keybinding="vscode",
